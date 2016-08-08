@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (2.0.0)
+  - Kingfisher (2.1.0)
+  - ObjectMapper (1.1.5)
+  - SnapKit (0.18.0)
+  - SwiftDate (3.0.8)
+
+DEPENDENCIES:
+  - Alamofire (= 2.0.0)
+  - Kingfisher (~> 2.1.0)
+  - ObjectMapper (~> 1.1.1)
+  - SnapKit (~> 0.18.0)
+  - SwiftDate
+
+SPEC CHECKSUMS:
+  Alamofire: 2f13548b29d25a58ecd91c9225fb51493e2b782b
+  Kingfisher: 3ac09acad75a25ab22f6d7cef3de10d61dd4792d
+  ObjectMapper: 528b1a6677a6acac7747edd508576983e76a9148
+  SnapKit: e1f090a6d47b1dd4bd89b73f72b6746a7835ef3c
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+
+PODFILE CHECKSUM: 8c1801b16bdef91a64409e816795c260e8e6e7e0
+
+COCOAPODS: 1.0.1
